@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.lesson-tile {
+    margin: 20px 30px;
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+    box-shadow: 0 4px 12px rgba(15, 23, 42, 0.3);
+    padding-top: 20px
+}
+
+.cover {
+    
+  text-align: center;
+  width: 360px;
+  height: 140px;
+  margin: 0 auto 16px;
+  background: linear-gradient(135deg, #53b7e2, #5b5cc4);
+  color: white;
+  border-radius: 10px;
+  font-size: 28px;
+  font-weight: 900;
+  line-height: 130px;
+}
+
+h2 {
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+p {
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    color: gray;
+}
+
+.status {
+    background-color: rgb(241, 241, 241);
+    color: gray;
+    font-weight: 900;
+    font-size: 13px;
+    margin-left: 20px;
+    padding: 5px;
+    border-radius: 14px;
+}
